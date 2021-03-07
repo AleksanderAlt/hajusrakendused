@@ -1,0 +1,2 @@
+# This is my homework in distributed applications.
+### Console application that makes a user, logs in with token and creates a new task. It is made using Newtonsoft.Json and RestSharp in Visual Studio.
